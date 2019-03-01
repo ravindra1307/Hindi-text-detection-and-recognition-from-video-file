@@ -6,6 +6,7 @@ hindi text detection and recognition from video file
   pytesseract
   imutils
   opencv 2
+  
 2) download the file and keep in same directory https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV/blob/master/frozen_east_text_detection.pb
 
 
