@@ -2,10 +2,12 @@
 hindi text detection and recognition from video file
 
 # REQUIREMENTS
-few libraries are needed to be installed in your python environment
-pytesseract
-imutils
-opencv 2
+1)few libraries are needed to be installed in your python environment
+  pytesseract
+  imutils
+  opencv 2
+2) download the file and keep in same directory https://github.com/ZER-0-NE/EAST-Detector-for-text-detection-using-OpenCV/blob/master/frozen_east_text_detection.pb
+
 
 # APPROACH
 1. Used EAST text detection method to detect text.
