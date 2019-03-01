@@ -2,6 +2,7 @@
 hindi text detection and recognition from video file
 
 # REQUIREMENTS
+
 1)few libraries are needed to be installed in your python environment
   pytesseract
   imutils
